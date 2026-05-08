@@ -4,6 +4,13 @@ Taskify is a full-stack MERN application built to help teams manage projects, as
 
 The application is designed with a clean SaaS-inspired UI and focuses on improving collaboration between admins, managers, and team members.
 
+
+# 🌐 Live Demo
+
+The application is deployed on Railway and can be accessed here:
+
+👉 https://taskify-production-c8e4.up.railway.app/
+
 ---
 
 ## Project Structure
