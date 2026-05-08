@@ -1,7 +1,7 @@
 {
-  "name": "pm-backend",
+  "name": "backend",
   "version": "1.0.0",
-  "description": "Project Management REST API",
+  "description": "Taskify REST API",
   "main": "src/server.js",
   "type": "module",
   "scripts": {
